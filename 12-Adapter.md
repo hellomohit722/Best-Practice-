@@ -89,3 +89,7 @@ public class AdapterPatternDemo {
     }
 }
 ```
+
+- object adapter -> composition
+- class adapter -> inheritance
+- Composition over inheritence in real world application.
